@@ -44,7 +44,7 @@
 * 完成一个功能的开发
     >git flow feature finish feature_name
 
-    该命令将会把feature/feature_name(feature)分支
+    该命令将会把feature/feature_name合并到develope分支，然后删除功能(feature)分支。
 
 * 查看当前所有的功能分支
     -v： 表示输出详情
