@@ -69,5 +69,7 @@
 
 * Hotfix
 
+## fetch
+
 # 参考
 [使用Git Flow管理开发流程](http://stormzhang.com/git/2014/01/29/git-flow/)
